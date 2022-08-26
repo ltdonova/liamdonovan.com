@@ -1,0 +1,9 @@
+h1 {
+    color: blue;
+    margin-right: 30px;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-evenly;
+}
